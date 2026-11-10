@@ -1,0 +1,13 @@
+{
+  "channel_id": "UCxxxxxxxxxxxxxxxxxxxxxx",
+  "video": "out/episode-01.mp4",
+  "thumbnail": "out/episode-01-thumb.jpg",
+  "title": "My video title",
+  "description": "Description with chapters.\n0:00 Intro",
+  "tags": ["claude code", "automation"],
+  "category_id": 28,
+  "made_for_kids": false,
+  "altered_content": true,
+  "publish_at": "2026-12-01T14:00:00Z",
+  "playlist_ids": []
+}

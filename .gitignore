@@ -1,0 +1,10 @@
+.env
+secrets/
+*token*.json
+*client*.json
+__pycache__/
+*.pyc
+out/
+cues/
+*.mp4
+*.m4a
